@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>sys_class_name</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>diego.hernandez@abacon.com.mx</sys_created_by>
+        <sys_created_on>2021-07-21 22:29:33</sys_created_on>
+        <sys_data_policy display_value="UI Policy Try">452490f02f21b010e1a028a62799b660</sys_data_policy>
+        <sys_id>912490f02f21b010e1a028a62799b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_class_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_data_policy_rule_912490f02f21b010e1a028a62799b664</sys_update_name>
+        <sys_updated_by>diego.hernandez@abacon.com.mx</sys_updated_by>
+        <sys_updated_on>2021-07-21 22:29:33</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>00c0ce10db779454c6e711f848961947</instance_id>
+        <instance_name>tac04790</instance_name>
+        <name>sys_data_policy_rule_912490f02f21b010e1a028a62799b664</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>sys_class_name</field><mandatory>ignore</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>diego.hernandez@abacon.com.mx</sys_created_by><sys_created_on>2021-07-21 22:29:33</sys_created_on><sys_data_policy display_value="UI Policy Try">452490f02f21b010e1a028a62799b660</sys_data_policy><sys_id>912490f02f21b010e1a028a62799b664</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_class_name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_data_policy_rule_912490f02f21b010e1a028a62799b664</sys_update_name><sys_updated_by>diego.hernandez@abacon.com.mx</sys_updated_by><sys_updated_on>2021-07-21 22:29:33</sys_updated_on><table>x_58872_needit_needit</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-62704732</payload_hash>
+        <record_name>sys_class_name</record_name>
+        <reverted_from/>
+        <source>521f39d42fed3010e1a028a62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>diego.hernandez@abacon.com.mx</sys_created_by>
+        <sys_created_on>2021-07-21 22:29:33</sys_created_on>
+        <sys_id>1d2490f02f21b010e1a028a62799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17acb30396e0000001</sys_recorded_at>
+        <sys_updated_by>diego.hernandez@abacon.com.mx</sys_updated_by>
+        <sys_updated_on>2021-07-21 22:29:33</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>552490f05321b010956b30aba91be966</update_guid>
+        <update_guid_history>552490f05321b010956b30aba91be966:-62704732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>diego.hernandez@abacon.com.mx</sys_created_by>
+        <sys_created_on>2021-07-21 22:30:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>366dc567b33444118e8033f7dff53341</sys_id>
+        <sys_metadata>912490f02f21b010e1a028a62799b664</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_class_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_912490f02f21b010e1a028a62799b664</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_912490f02f21b010e1a028a62799b664">1d2490f02f21b010e1a028a62799b666</sys_update_version>
+        <sys_updated_by>diego.hernandez@abacon.com.mx</sys_updated_by>
+        <sys_updated_on>2021-07-21 22:30:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
